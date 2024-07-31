@@ -6,7 +6,9 @@ En este repositorio podreis encontrar mi primer EDA, dirigido por la escuela THE
 
 Buscamos respoder la siguiente pregunta:
 
-<strong>¿Qué lleva a un país europeo a invertir en plantas fotovoltaicas?</strong>
+# ¿Qué lleva a un país europeo a invertir en plantas fotovoltaicas?
+
+
 
 ![image](https://github.com/user-attachments/assets/069dea2b-194e-4086-a065-4ba076b848e8)
 
